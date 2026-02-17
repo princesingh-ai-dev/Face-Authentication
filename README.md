@@ -49,7 +49,7 @@ Uses OpenCV and face_recognition for real-time face detection and matching, secu
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/princesingh1702/Face-Authentication.git
+git clone https://github.com/princesingh-ai-dev/Face-Authentication.git
 cd Face-Authentication
 
 # 2. Create virtual environment
